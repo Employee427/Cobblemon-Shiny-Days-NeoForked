@@ -5,6 +5,7 @@ import com.google.gson.reflect.TypeToken
 import java.io.File
 import java.io.FileReader
 
+
 object ConfigLoader {
 
     private val configFile = File("config/cobblemonshinydays/config.json")
